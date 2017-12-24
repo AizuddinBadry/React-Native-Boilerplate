@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313259956499",
+    "firebase_url": "https://playlo-76136.firebaseio.com",
+    "project_id": "playlo-76136",
+    "storage_bucket": "playlo-76136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313259956499:android:ec8d2a1675ea64d8",
+        "android_client_info": {
+          "package_name": "com.playlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313259956499-05iriatm7a57kd2hh4dg0akhruv35lnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.playlo",
+            "certificate_hash": "0573300be001eff92a2c82e6578b9151a2b98947"
+          }
+        },
+        {
+          "client_id": "313259956499-1m2fdn94ddkgvb4oih1iiljng7qjhdmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgrcpGZ5lhIFPAycIhz6SOyyTBWL6PVUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313259956499-1m2fdn94ddkgvb4oih1iiljng7qjhdmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

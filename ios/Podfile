@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'playlo' do
+    pod 'React', :path => '../node_modules/react-native', :subspecs => [
+    'Core',
+    'RCTText',
+    'RCTNetwork',
+    'RCTWebSocket',
+    'ART',
+
+    # needed for debugging
+    # Add any other subspecs you want to use in your project
+    ]
+    pod 'Yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+    pod 'Firebase/Core'
+  
+end
